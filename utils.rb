@@ -10,3 +10,10 @@ class Node
         return [@val,@next.val].to_s
     end
 end
+class ListNode
+    attr_accessor :val, :next
+    def initialize(val = 0, _next = nil)
+        @val = val
+        @next = _next
+    end
+end
