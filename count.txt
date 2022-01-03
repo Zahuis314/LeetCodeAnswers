@@ -1,4 +1,4 @@
-Python (10)
+Python (11)
     2. Add Two Numbers
     20. Valid Parentheses
     36. Valid Sudoku
@@ -8,6 +8,7 @@ Python (10)
     344. Reverse String.py
     876. Middle of the Linked List.py
     977. Squares of a Sorted Array.py
+    1010. Pairs of Songs With Total Durations Divisible by 60
     1015. Smallest Integer Divisible by K.py
 Ruby (15)
     1. Two Sum.rb
