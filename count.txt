@@ -1,8 +1,9 @@
-Python (13)
+Python (14)
     2. Add Two Numbers
     20. Valid Parentheses
     36. Valid Sudoku
     53. Maximum Subarray
+    58. Length of Last Word.py
     189. Rotate Array.py
     283. Move Zeroes.py
     344. Reverse String.py
