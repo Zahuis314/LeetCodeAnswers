@@ -1,4 +1,4 @@
 ﻿using CSharp;
 
 var solver = new Solution();
-solver.TestCarPooling();
+solver.TestLengthOfLongestSubstring();
