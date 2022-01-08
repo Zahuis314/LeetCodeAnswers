@@ -15,7 +15,7 @@ C# (16)
     1094. Car Pooling
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
-Python (15)
+Python (16)
     2. Add Two Numbers
     20. Valid Parentheses
     36. Valid Sudoku
@@ -26,6 +26,7 @@ Python (15)
     344. Reverse String.py
     876. Middle of the Linked List.py
     977. Squares of a Sorted Array.py
+    994. Rotting Oranges
     997. Find the Town Judge.py
     1009. Complement of Base 10 Integer.py
     1010. Pairs of Songs With Total Durations Divisible by 60
