@@ -30,7 +30,7 @@ Python (14)
     1009. Complement of Base 10 Integer.py
     1010. Pairs of Songs With Total Durations Divisible by 60
     1015. Smallest Integer Divisible by K.py
-Ruby (17)
+Ruby (18)
     1. Two Sum.rb
     9. Palindrome Number.rb
     19. Remove Nth Node From End of List
@@ -44,6 +44,7 @@ Ruby (17)
     206. Reverse Linked List
     278. First Bad Version.rb
     476. Number Complement.rb
+    542. 01 Matrix
     557. Reverse Words in a String III.rb
     617. Merge Two Binary Trees
     704. Binary Search.rb
