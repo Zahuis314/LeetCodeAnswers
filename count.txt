@@ -30,7 +30,7 @@ Python (14)
     1009. Complement of Base 10 Integer.py
     1010. Pairs of Songs With Total Durations Divisible by 60
     1015. Smallest Integer Divisible by K.py
-Ruby (19)
+Ruby (20)
     1. Two Sum.rb
     9. Palindrome Number.rb
     19. Remove Nth Node From End of List
@@ -39,6 +39,7 @@ Ruby (19)
     27. Remove Element.rb
     35. Search Insert Position.rb
     38. Count and Say
+    77. Combinations
     116. Populating Next Right Pointers in Each Node.rb
     143. Reorder List.rb
     167. Two Sum II - Input Array Is Sorted.rb
