@@ -15,13 +15,14 @@ C# (16)
     1094. Car Pooling
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
-Python (20)
+Python (21)
     2. Add Two Numbers
     20. Valid Parentheses
     36. Valid Sudoku
     53. Maximum Subarray
     58. Length of Last Word.py
     70. Climbing Stairs
+    120. Triangle
     189. Rotate Array.py
     198. House Robber
     283. Move Zeroes.py
