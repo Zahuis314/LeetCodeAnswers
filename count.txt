@@ -40,7 +40,7 @@ Python (21)
     1015. Smallest Integer Divisible by K.py
     1137. N-th Tribonacci Number.py
     1463. Cherry Pickup II
-Ruby (24)
+Ruby (25)
     1. Two Sum.rb
     9. Palindrome Number.rb
     19. Remove Nth Node From End of List
@@ -59,6 +59,7 @@ Ruby (24)
     206. Reverse Linked List
     278. First Bad Version.rb
     476. Number Complement.rb
+    485. Max Consecutive Ones
     542. 01 Matrix
     557. Reverse Words in a String III.rb
     617. Merge Two Binary Trees
