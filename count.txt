@@ -18,8 +18,9 @@ C# (19)
     1094. Car Pooling
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
-Python (24)
+Python (25)
     2. Add Two Numbers
+    8. String to Integer (atoi)
     20. Valid Parentheses
     36. Valid Sudoku
     53. Maximum Subarray
