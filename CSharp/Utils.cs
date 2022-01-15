@@ -31,5 +31,19 @@ namespace CSharp
             if (remove && dict[value] == 0)
                 dict.Remove(value);
         }
+        public static List<Tuple<List<T>,R>> LoadTestCase<T,R>(string path)
+        {
+            List<Tuple<List<T>, R> > result = new List<Tuple<List<T>, R>>();
+            var testcases = File.ReadAllLines(Path.Combine(@"..\..\..\TestCases", path));
+            foreach(var testcase in testcases)
+            {
+                var line_parsed = testcase.Split(' ');
+                R answer = (R)Convert.ChangeType(line_parsed[1],typeof(R));
+                var cases = line_parsed[0].Split(',');
+                List<T> list = new List<T>(cases.Select(x=> (T)Convert.ChangeType(x, typeof(T))));
+                result.Add(new Tuple<List<T>, R>(list, answer));
+            }
+            return result;
+        }
     }
 }
