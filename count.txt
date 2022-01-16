@@ -1,4 +1,4 @@
-C# (20)
+C# (21)
     3. Longest Substring Without Repeating Characters
     14. Longest Common Prefix
     80. Remove Duplicates from Sorted Array II
@@ -14,6 +14,7 @@ C# (20)
     567. Permutation in String
     695. Max Area of Island
     733. Flood Fill
+    849. Maximize Distance to Closest Person
     1002. Find Common Characters.cs
     1094. Car Pooling
     1122. Relative Sort Array.cs
