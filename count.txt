@@ -1,4 +1,4 @@
-C# (22)
+C# (23)
     3. Longest Substring Without Repeating Characters
     14. Longest Common Prefix
     80. Remove Duplicates from Sorted Array II
@@ -13,6 +13,7 @@ C# (22)
     382. Linked List Random Node
     509. Fibonacci Number
     567. Permutation in String
+    605. Can Place Flowers
     695. Max Area of Island
     733. Flood Fill
     849. Maximize Distance to Closest Person
