@@ -24,7 +24,8 @@ C# (25)
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
     1345. Jump Game IV
-JavaScript (8)
+JavaScript (9)
+    84. Largest Rectangle in Histogram
     134. Gas Station
     208. Implement Trie (Prefix Tree)
     211. Design Add and Search Words Data Structure
