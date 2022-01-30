@@ -24,11 +24,12 @@ C# (25)
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
     1345. Jump Game IV
-JavaScript (11)
+JavaScript (12)
     34. Find First and Last Position of Element in Sorted Array
     74. Search a 2D Matrix
     84. Largest Rectangle in Histogram
     134. Gas Station
+    153. Find Minimum in Rotated Sorted Array
     208. Implement Trie (Prefix Tree)
     211. Design Add and Search Words Data Structure
     520. Detect Capital
