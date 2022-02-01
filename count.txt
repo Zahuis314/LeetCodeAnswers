@@ -24,7 +24,7 @@ C# (25)
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
     1345. Jump Game IV
-JavaScript (19)
+JavaScript (20)
     34. Find First and Last Position of Element in Sorted Array
     74. Search a 2D Matrix
     82. Remove Duplicates from Sorted List II
@@ -33,6 +33,7 @@ JavaScript (19)
     121. Best Time to Buy and Sell Stock
     134. Gas Station
     153. Find Minimum in Rotated Sorted Array
+    162. Find Peak Element
     208. Implement Trie (Prefix Tree)
     211. Design Add and Search Words Data Structure
     312. Burst Balloons
