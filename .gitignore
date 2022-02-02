@@ -4,3 +4,5 @@ __pycache__/
 
 CSharp/obj/
 CSharp/bin/
+
+node_modules/
