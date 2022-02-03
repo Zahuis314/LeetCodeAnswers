@@ -7,29 +7,53 @@
 // 1 <= nums.length <= 200
 // -10^9 <= nums[i] <= 10^9
 // -10^9 <= target <= 10^9
-
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[][]}
+ */
 var twoSum = function(nums, target){
-    var left_index = 0, right_index = nums.length-1;
+    var lo = 0, hi = nums.length-1;
     var result = [];
-    while(left_index < right_index){
-        if(nums[left_index] + nums[right_index] == target){
-            result.push([nums[left_index], nums[right_index]]);
-            while(nums[left_index]==nums[left_index+1]){
-                left_index++;
-            }
-            while(nums[right_index]==nums[right_index-1]){
-                right_index--;
-            }
-            left_index++;
-        }else if(nums[left_index] + nums[right_index] > target){
-            right_index--;
+    while(lo < hi){
+        var curr_sum = nums[lo] + nums[hi];
+        if(curr_sum < target || (lo>0 && nums[lo]==nums[lo-1])){
+            lo++;
+        }else if(curr_sum > target || (hi<nums.length-1 && nums[hi]==nums[hi+1])){
+            hi--;
         }else{
-            left_index++;
+            result.push([nums[lo], nums[hi]]);
+            hi--;
+            lo++;
         }
     }
     return result;
 }
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @param {number} k
+ * @return {number[][]}
+ */
+var kSum = function(nums,target,k){
+    var average_val = Math.floor(target/k);
+    if(nums.length<k || average_val < nums[0] || average_val > nums[nums.length-1]){
+        return [];
+    }
+    var result = [];
+    if(k==2){
+        return twoSum(nums,target)
+    }
+    for (let i = 0; i < nums.length; i++) {
+        if(i==0 || nums[i-1]!=nums[i]){
 
+            var curr_res = kSum(nums.slice(i+1),target-nums[i],k-1);
+            transformed = curr_res.map(arr=>[nums[i],...arr]);
+            result.push(...transformed);
+        }
+    }
+    return result;
+}
 /**
  * @param {number[]} nums
  * @param {number} target
@@ -37,17 +61,7 @@ var twoSum = function(nums, target){
  */
 var fourSum = function(nums, target) {
     nums.sort((a,b)=>a-b);
-    var result = [];
-    for (let i = 0; i < nums.length-3; i++) {
-        while(i>0 && nums[i]==nums[i-1]){i++;}
-        for (let j = i+1; j < nums.length-2; j++) {
-            while(j>0 && j!=i+1 && nums[j]==nums[j-1]){j++;}
-            var curr_res = twoSum(nums.slice(j+1),target-(nums[i]+nums[j]));
-            transformed = curr_res.map(arr=>[nums[i],nums[j],...arr]);
-            result.push(...transformed);
-        }
-    }
-    return result;
+    return kSum(nums,target,4)
 };
 
 console.log(fourSum([1,0,-1,0,-2,2],0)) //[[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
