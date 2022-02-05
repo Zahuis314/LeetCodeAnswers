@@ -15,7 +15,6 @@
  * @return {number}
  */
 var search = function(nums, target) {
-    var min = 0;
     var left = 0;
     var right = nums.length-1;
     while (left <= right){
@@ -23,27 +22,19 @@ var search = function(nums, target) {
         if(nums[middle] == target){
             return middle;
         }
-        else if (nums[middle] > nums[min]) {
-            left = middle + 1;
+        else if (nums[middle] <= nums[right]) {
+            if (target > nums[middle] && target <= nums[right]) {
+                left = middle + 1;
+            } else {
+                right = middle - 1;
+            }
         }
         else{
-            right = middle - 1;
-            min = middle;
-        }
-    }
-    var start = left % nums.length;
-    left = 0, right = nums.length-1;
-    while (left <= right){
-        var middle = Math.floor((left+right)/2);
-        var middle_padding = (middle+start)%nums.length
-        if(nums[middle_padding] == target){
-            return middle_padding;
-        }
-        else if (nums[middle_padding] > target) {
-            right = middle - 1;
-        }
-        else{
-            left = middle + 1;
+            if (target > nums[middle] || target < nums[left]) {
+                left = middle + 1;
+            } else {
+                right = middle - 1;
+            }
         }
     }
     return -1;
