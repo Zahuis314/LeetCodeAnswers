@@ -17,6 +17,11 @@ class ListNode
         @next = _next
     end
 end
+# @param {Array} arr
+# @return {ListNode}
+def convert_to_list_node(arr)
+    ListNode.new(arr[0],arr.length != 1 ? convert_to_list_node(arr[1..]) : nil)
+end
 class TreeNode
     attr_accessor :val, :left, :right
     def initialize(val = 0, left = nil, right = nil)
