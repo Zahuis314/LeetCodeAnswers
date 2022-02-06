@@ -77,7 +77,7 @@ Python (25)
     1137. N-th Tribonacci Number.py
     1295. Find Numbers with Even Number of Digits
     1463. Cherry Pickup II
-Ruby (27)
+Ruby (28)
     1. Two Sum.rb
     9. Palindrome Number.rb
     19. Remove Nth Node From End of List
@@ -103,5 +103,6 @@ Ruby (27)
     557. Reverse Words in a String III.rb
     617. Merge Two Binary Trees
     704. Binary Search.rb
+    986. Interval List Intersections
     1022. Sum of Root To Leaf Binary Numbers
     1026. Maximum Difference Between Node and Ancestor.rb
