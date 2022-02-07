@@ -77,11 +77,12 @@ Python (25)
     1137. N-th Tribonacci Number.py
     1295. Find Numbers with Even Number of Digits
     1463. Cherry Pickup II
-Ruby (29)
+Ruby (30)
     1. Two Sum.rb
     9. Palindrome Number.rb
     19. Remove Nth Node From End of List
     21. Merge Two Sorted Lists
+    22. Generate Parentheses
     23. Merge k Sorted Lists
     26. Remove Duplicates from Sorted Array.rb
     27. Remove Element.rb
