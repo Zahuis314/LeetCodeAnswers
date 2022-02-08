@@ -51,7 +51,7 @@ JavaScript (26)
     1305. All Elements in Two Binary Search Trees
     1510. Stone Game IV
     1672. Richest Customer Wealth
-Python (28)
+Python (29)
     2. Add Two Numbers
     8. String to Integer (atoi)
     20. Valid Parentheses
@@ -68,6 +68,7 @@ Python (28)
     283. Move Zeroes.py
     344. Reverse String.py
     452. Minimum Number of Arrows to Burst Balloons
+    547. Number of Provinces
     701. Insert into a Binary Search Tree
     784. Letter Case Permutation
     876. Middle of the Linked List.py
