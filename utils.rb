@@ -7,7 +7,7 @@ class Node
     end
     def to_s()
         # return @val.to_s
-        return [@val,@next.val].to_s
+        return [@val&.to_s,@next&.val].to_s
     end
 end
 class ListNode
