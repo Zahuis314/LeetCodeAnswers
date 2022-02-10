@@ -86,7 +86,7 @@ Python (30)
     1137. N-th Tribonacci Number.py
     1295. Find Numbers with Even Number of Digits
     1463. Cherry Pickup II
-Ruby (31)
+Ruby (32)
     1. Two Sum.rb
     9. Palindrome Number.rb
     19. Remove Nth Node From End of List
@@ -98,6 +98,7 @@ Ruby (31)
     35. Search Insert Position.rb
     38. Count and Say
     46. Permutations
+    62. Unique Paths
     67. Add Binary
     77. Combinations
     116. Populating Next Right Pointers in Each Node.rb
