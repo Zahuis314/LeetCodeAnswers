@@ -24,7 +24,7 @@ C# (25)
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
     1345. Jump Game IV
-JavaScript (28)
+JavaScript (29)
     15. 3Sum
     18. 4Sum
     33. Search in Rotated Sorted Array
@@ -40,6 +40,7 @@ JavaScript (28)
     208. Implement Trie (Prefix Tree)
     211. Design Add and Search Words Data Structure
     312. Burst Balloons
+    413. Arithmetic Slices
     421. Maximum XOR of Two Numbers in an Array
     438. Find All Anagrams in a String
     454. 4Sum II
