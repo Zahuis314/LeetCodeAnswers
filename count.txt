@@ -52,8 +52,9 @@ JavaScript (27)
     1305. All Elements in Two Binary Search Trees
     1510. Stone Game IV
     1672. Richest Customer Wealth
-Python (29)
+Python (30)
     2. Add Two Numbers
+    5. Longest Palindromic Substring
     8. String to Integer (atoi)
     20. Valid Parentheses
     36. Valid Sudoku
