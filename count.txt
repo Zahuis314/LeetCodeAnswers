@@ -24,7 +24,7 @@ C# (25)
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
     1345. Jump Game IV
-JavaScript (27)
+JavaScript (28)
     15. 3Sum
     18. 4Sum
     33. Search in Rotated Sorted Array
@@ -45,6 +45,7 @@ JavaScript (27)
     454. 4Sum II
     520. Detect Capital
     532. K-diff Pairs in an Array
+    560. Subarray Sum Equals K
     844. Backspace String Compare
     941. Valid Mountain Array
     1041. Robot Bounded In Circle
