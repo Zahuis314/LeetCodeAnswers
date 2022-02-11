@@ -86,7 +86,7 @@ Python (30)
     1137. N-th Tribonacci Number.py
     1295. Find Numbers with Even Number of Digits
     1463. Cherry Pickup II
-Ruby (34)
+Ruby (35)
     1. Two Sum.rb
     9. Palindrome Number.rb
     17. Letter Combinations of a Phone Number
@@ -121,3 +121,4 @@ Ruby (34)
     986. Interval List Intersections
     1022. Sum of Root To Leaf Binary Numbers
     1026. Maximum Difference Between Node and Ancestor.rb
+    1091. Shortest Path in Binary Matrix
