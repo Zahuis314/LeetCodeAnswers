@@ -24,11 +24,12 @@ C# (25)
     1122. Relative Sort Array.cs
     1221. Split a String in Balanced Strings
     1345. Jump Game IV
-JavaScript (30)
+JavaScript (31)
     15. 3Sum
     18. 4Sum
     33. Search in Rotated Sorted Array
     34. Find First and Last Position of Element in Sorted Array
+    39. Combination Sum
     74. Search a 2D Matrix
     82. Remove Duplicates from Sorted List II
     83. Remove Duplicates from Sorted List
