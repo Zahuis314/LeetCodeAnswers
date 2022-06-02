@@ -56,7 +56,7 @@ JavaScript (31)
     1305. All Elements in Two Binary Search Trees
     1510. Stone Game IV
     1672. Richest Customer Wealth
-Python (33)
+Python (34)
     2. Add Two Numbers
     5. Longest Palindromic Substring
     8. String to Integer (atoi)
@@ -88,6 +88,7 @@ Python (33)
     1015. Smallest Integer Divisible by K.py
     1137. N-th Tribonacci Number.py
     1295. Find Numbers with Even Number of Digits
+    1461. Check If a String Contains All Binary Codes of Size K
     1463. Cherry Pickup II
     1480. Running Sum of 1d Array
 Ruby (35)
