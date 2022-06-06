@@ -1,4 +1,4 @@
-C# (25)
+C# (26)
     3. Longest Substring Without Repeating Characters
     14. Longest Common Prefix
     80. Remove Duplicates from Sorted Array II
@@ -11,6 +11,7 @@ C# (25)
     200. Number of Islands
     231. Power of Two
     290. Word Pattern
+    304. Range Sum Query 2D - Immutable
     382. Linked List Random Node
     509. Fibonacci Number
     567. Permutation in String
