@@ -1,4 +1,4 @@
-C# (29)
+C# (30)
     3. Longest Substring Without Repeating Characters
     14. Longest Common Prefix
     80. Remove Duplicates from Sorted Array II
@@ -28,6 +28,7 @@ C# (29)
     1221. Split a String in Balanced Strings
     1332. Remove Palindromic Subsequences
     1345. Jump Game IV
+    1790. Check if One String Swap Can Make Strings Equal
 JavaScript (31)
     15. 3Sum
     18. 4Sum
