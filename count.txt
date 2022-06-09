@@ -1,4 +1,4 @@
-C# (28)
+C# (29)
     3. Longest Substring Without Repeating Characters
     14. Longest Common Prefix
     80. Remove Duplicates from Sorted Array II
@@ -8,6 +8,7 @@ C# (28)
     131. Palindrome Partitioning
     136. Single Number
     142. Linked List Cycle II
+    167. Two Sum II - Input Array Is Sorted
     190. Reverse Bits
     200. Number of Islands
     231. Power of Two
