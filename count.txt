@@ -1,10 +1,11 @@
-C# (30)
+C# (31)
     3. Longest Substring Without Repeating Characters
     14. Longest Common Prefix
     80. Remove Duplicates from Sorted Array II
     88. Merge Sorted Array
     118. Pascal's Triangle
     119. Pascal's Triangle II.cs
+    120. Triangle
     131. Palindrome Partitioning
     136. Single Number
     142. Linked List Cycle II
