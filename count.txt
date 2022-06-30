@@ -62,7 +62,7 @@ JavaScript (31)
     1305. All Elements in Two Binary Search Trees
     1510. Stone Game IV
     1672. Richest Customer Wealth
-Python (39)
+Python (40)
     2. Add Two Numbers
     5. Longest Palindromic Substring
     8. String to Integer (atoi)
@@ -82,6 +82,7 @@ Python (39)
     258. Add Digits
     283. Move Zeroes.py
     344. Reverse String.py
+    406. Queue Reconstruction by Height
     452. Minimum Number of Arrows to Burst Balloons
     547. Number of Provinces
     583. Delete Operation for Two Strings
