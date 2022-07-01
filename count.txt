@@ -62,7 +62,7 @@ JavaScript (31)
     1305. All Elements in Two Binary Search Trees
     1510. Stone Game IV
     1672. Richest Customer Wealth
-Python (41)
+Python (42)
     2. Add Two Numbers
     5. Longest Palindromic Substring
     8. String to Integer (atoi)
@@ -103,6 +103,7 @@ Python (41)
     1461. Check If a String Contains All Binary Codes of Size K
     1463. Cherry Pickup II
     1480. Running Sum of 1d Array
+    1710. Maximum Units on a Truck
 Ruby (35)
     1. Two Sum.rb
     9. Palindrome Number.rb
