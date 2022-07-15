@@ -62,7 +62,7 @@ JavaScript (31)
     1305. All Elements in Two Binary Search Trees
     1510. Stone Game IV
     1672. Richest Customer Wealth
-Python (47)
+Python (48)
     2. Add Two Numbers
     5. Longest Palindromic Substring
     8. String to Integer (atoi)
@@ -92,6 +92,7 @@ Python (47)
     462. Minimum Moves to Equal Array Elements II
     547. Number of Provinces
     583. Delete Operation for Two Strings
+    695. Max Area of Island
     701. Insert into a Binary Search Tree
     784. Letter Case Permutation
     867. Transpose Matrix
